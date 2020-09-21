@@ -7,7 +7,7 @@ includes:
 
 * Quests:
   * Obtaining axe.
-  * defeating a skeleton.
-  * collecting wood
+  * Defeating a skeleton.
+  * Collecting wood
 
 Learned by Jimmy Vegas.
