@@ -5,7 +5,7 @@ includes:
 * Weapons:
   * Axe
 
-*Quests:
+* Quests:
   * Obtaining axe.
   * defeating a skeleton.
   * collecting wood
